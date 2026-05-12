@@ -1,1 +1,1 @@
-print("Welcome to avd group")
+print("Welcome to avd")
