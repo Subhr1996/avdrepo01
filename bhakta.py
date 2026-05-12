@@ -17,4 +17,4 @@ res = binary_search(a, key)
 if res != -1:
     print(f"{key} is present inside the list")
 else:
-    print(f"{key} is not present in the list")
+    print(f"{key} is not present in the list") #answer
